@@ -1,0 +1,7 @@
+1,apiKey1,employee,
+2,apiKey2,employee,
+3,apiKey3,employee,
+4,apiKey4,employee,
+5,apiKey5,employee,
+6,apiKey6,"employee,manager",1//2//3
+7,apiKey7,"employee,manager",4//5
